@@ -62,7 +62,7 @@ app.use(
       "https://stacksapp.pages.dev",
       "http://localhost:5173",
       "https://stacks-48in.onrender.com",
-      "https://stacksl.netlify.app",
+      "https://digitalblitz.onrender.com",
     ],
     credentials: true,
     allowedHeaders: [
