@@ -59,7 +59,7 @@ app.use(
       "https://stackswork.netlify.app",
       "https://stacksl.com",
       "https://www.stacksl.com",
-      "https://stacksapp.pages.dev",
+      "https://digitalblits.com",
       "http://localhost:5173",
       "https://stacks-48in.onrender.com",
       "https://digitalblitz.onrender.com",
